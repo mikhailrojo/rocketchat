@@ -1,5 +1,8 @@
 ### Rocket.chat API ###
 
 Приложение, которое может писать в рокет чат через Rocket.chat API
-http://iqrocketchat.herokuapp.com/ - сам рокет-чат (простая регистрация)
-https://iq2rocketchat.herokuapp.com - само приложение
+
+  http://iqrocketchat.herokuapp.com/ - сам рокет-чат (простая регистрация)
+  https://iq2rocketchat.herokuapp.com - само приложение
+
+Смысл этого репо - реализовать минимальный функционал, чтобы можно было обмениться сообщениями со сторонним рокетчатом, без какой-либо красоты.
